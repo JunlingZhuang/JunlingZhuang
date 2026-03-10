@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junling Zhuang</h1>
 <p align="center">I am a machine learning Enginner, artist and researcher who using technology and design to help people understand information and using research to guide creativity. My work uniquely intersects the spatial computing, machine learning and human-computer interaction, envisioning these disciplines as a novel form of digital media infrastructure. My machine learning and 3D computer vision research papers have been presented at CVPR 2026, ACADIA 2024, CAADRIA 2024 conference and CHCHI 2023 conferencee . The art and design works I have participated in have been exhibited at Ars Electronica, Elektra Virtual Museum. I aspire to shape the future of computational design, making these emerging digital infrastructures more accessible and valuable for people. My commitment to democratizing humane technologies is evident in my use of hybrid displays, spatial computing, generative design, software development, digital media, artificial intelligence, and data visualization.</p>
 
-- 🌱 I’m currently learning **MLLM, training, inference optizimation**
+- 🌱 I’m currently learning **Multimodal LLMs, training, inference and optizimation**
 
 - 👨‍💻 All of my projects are available at [https://www.junling-design.com/](https://www.junling-design.com/)
 
